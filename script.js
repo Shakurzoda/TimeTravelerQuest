@@ -1,4 +1,4 @@
-/* let timerInterval;
+let timerInterval;
 let elapsedTime = 0;
 
 const timerDisplay = document.getElementById("timerDisplay");
@@ -47,7 +47,8 @@ stopButton.addEventListener("click", stopTimer);
 resetButton.addEventListener("click", resetTimer);
 
 updateDisplay();
- */
+
+
 let acc = document.getElementsByClassName("accordion");
 let i;
 
